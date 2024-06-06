@@ -1,0 +1,30 @@
+idExams,studentName,studentSurname,subject,Grade,Lode,CFU
+1,Leonardo,Vitale,Calcolatori,21,0,11
+2,Giulia,Bianchi,Analisi Matematica,29,1,8
+3,Mario,Rossi,Fisica,24,0,7
+5,Chiara,Neri,Inglese,27,0,6
+7,Giovanni,Moretti,Chimica,26,0,7
+8,Elena,Bruno,Diritto,23,0,6
+9,Federico,Galli,Economia,29,1,9
+10,Alessia,Fontana,Geografia,25,0,7
+11,Lorenzo,Conti,Arte,30,1,10
+12,Cristina,Santoro,Letteratura,27,0,8
+13,Matteo,Barbieri,Informatica,29,1,9
+14,Valentina,Romano,Musica,26,0,7
+15,Marco,Gentile,Biologia,28,1,8
+17,Andrea,Bianco,Psicologia,30,1,10
+18,Camilla,Marini,Lingua Latina,27,0,7
+19,Davide,Bellini,Statistica,29,1,9
+20,Beatrice,Gallo,Filosofia,25,0,7
+21,Leonardo,Vitale,Chimica Organica,26,1,9
+22,Leonardo,Vitale,Scienze Politiche,23,0,6
+23,Leonardo,Vitale,Elettronica,28,1,8
+24,Leonardo,Vitale,Architettura,25,0,7
+29,Mario,Rossi,Geologia,29,0,9
+31,Leonardo,Vitale,Ottimizzazione,25,0,11
+32,Marco,Cugliani,Ottimizzazione,29,0,11
+33,asd,asd,ads,22,0,2
+34,Mario,Rossi,Lingue,21,0,2
+35,Marco,Villa,Fisiologia,25,0,9
+36,Leonardo,Vitale,Sistemi Artificiali,29,0,9
+37,Marco,Cuglia,Telecomunicazioni,28,0,9
